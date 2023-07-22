@@ -1,31 +1,12 @@
 {
-  "contact": "",
   "templates": [
     {
-      "name": "Drapeau de Gauche",
+      "name": "Lys",
       "sources": [
-        "https://i.imgur.com/IYwCC4H.png"
+        "https://i.imgur.com/UvOhjUH.png"
       ],
-      "x": 0,
-      "y": 130
-    },
-    {
-      "name": "Ancien Drapeau de Gauche",
-      "sources": [
-        "https://i.imgur.com/562xSZv.png"
-      ],
-      "x": 500,
-      "y": 130
-    },
-    {
-      "name": "Drapeau de droite",
-      "sources": [
-        "https://i.imgur.com/ZYNP7tK.png"
-      ],
-      "x": 1887,
-      "y": 130
+      "x": 54,
+      "y": 150
     }
-  ],
-  "whitelist": [],
-  "blacklist": []
+  ]
 }

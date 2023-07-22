@@ -1,11 +1,11 @@
 {
   "templates": [
     {
-      "name": "Lys",
+      "name": "Patrouille_de_France",
       "sources": [
-        "https://i.imgur.com/NI846ej.png"
+        "https://i.imgur.com/UvOhjUH.png"
       ],
-      "x": 55,
+      "x": 17,
       "y": 150
     }
   ]

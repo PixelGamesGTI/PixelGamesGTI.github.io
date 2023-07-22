@@ -1,11 +1,11 @@
 {
   "templates": [
     {
-      "name": "Patrouille_de_France",
+      "name": "RANUS",
       "sources": [
-        "https://i.imgur.com/Cvl5qM5.png"
+        "https://i.imgur.com/NBhEZVv.png"
       ],
-      "x": 4,
+      "x": 500,
       "y": 450
     }
   ]

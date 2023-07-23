@@ -1,12 +1,12 @@
 {
   "templates": [
     {
-      "name": "BAGUETTE2.0",
+      "name": "rubius",
       "sources": [
-        "https://i.imgur.com/yixcgVk.png"
+        "https://i.imgur.com/lU9l58m.png"
       ],
-      "x": 1730,
-      "y": 995
+      "x": 1715,
+      "y": 970
     }
   ]
 }
